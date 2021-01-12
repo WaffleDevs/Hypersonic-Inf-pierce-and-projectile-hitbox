@@ -1,4 +1,4 @@
-﻿using MelonLoader;
+using MelonLoader;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
@@ -10,13 +10,12 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("First Test")]
+[assembly: AssemblyProduct("Hypersonic + Inf pierce, and projectile hitbox")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: MelonInfo(typeof(First_Test.Main), "Hypersonic + Inf pierce, and projectile hitbox", "0.1", "Waffle")]
+[assembly: MelonInfo(typeof(HIPPH.Main), "Hypersonic + Inf pierce, and projectile hitbox", "1.0", "Waffle")]
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6")]
-//[assembly: NKHook6.LatestVersionURL(typeof(First_Test.Main), "YOUR_URL_HERE")]
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
 // COM, set the ComVisible attribute to true on that type.
